@@ -1,0 +1,3 @@
+x11 = inputdlg('GET input N',...
+             'Sample', [1 50]);
+         N=str2num(x11{:})
