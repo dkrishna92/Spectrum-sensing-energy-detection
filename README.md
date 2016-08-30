@@ -2,7 +2,7 @@ Spectrum sensing through Energy detection
 =========================================
 Disclaimer
 ---------------
-Some parts of these codes were not written by me and are available online. I will update sources if I find them.
+Some parts of these codes were not written by me and were available online without proper sources. I will update original sources if I find them. I have collated multiple algorithms on this topic and put them up for comparison
 
 Project summary
 ----------------
@@ -56,4 +56,4 @@ All the previous algorithm considered the threshold to be constant. This algorit
 
 Usage 
 ------
-Run the files ied.m, ged.m and untitled8.m for IED, GED and VT. CED is coded in all the files. you get comparision of each technique with CED.
+Run the files ied.m, ged.m and untitled8.m for IED, GED and VT. CED is coded in all the files. you get comparison of each technique with CED.
