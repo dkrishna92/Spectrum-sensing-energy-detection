@@ -1,5 +1,9 @@
 Spectrum sensing through Energy detection
 =========================================
+Disclaimer
+---------------
+Some parts of these codes were not written by me and are available online. I will update sources if I find them.
+
 Project summary
 ----------------
 This project compares different primary user(PU) energy detection techniques currently applied for **spectrum sensing**.
@@ -52,10 +56,4 @@ All the previous algorithm considered the threshold to be constant. This algorit
 
 Usage 
 ------
-Run the files ied.m, ged.m and untitled8.m for IED, GED and VT. CED is coded in all the files. you get comparision of each technique with CED. 
-
-
-
-
-
-
+Run the files ied.m, ged.m and untitled8.m for IED, GED and VT. CED is coded in all the files. you get comparision of each technique with CED.
